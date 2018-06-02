@@ -1,0 +1,371 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   sodipodi:docname="mock-up.svg">
+  <defs
+     id="defs2">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient4524">
+      <stop
+         style="stop-color:#4f00de;stop-opacity:1;"
+         offset="0"
+         id="stop4520" />
+      <stop
+         style="stop-color:#4f00de;stop-opacity:0;"
+         offset="1"
+         id="stop4522" />
+    </linearGradient>
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4524"
+       id="radialGradient4526"
+       cx="141.77995"
+       cy="119.84232"
+       fx="141.77995"
+       fy="119.84232"
+       r="105.26637"
+       gradientTransform="matrix(4.8500221,-0.69746712,0.71968991,5.0045794,-732.02091,-341.62437)"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.7"
+     inkscape:cx="763.59392"
+     inkscape:cy="531.80586"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="2048"
+     inkscape:window-height="1089"
+     inkscape:window-x="1672"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       id="rect3713"
+       width="113.24664"
+       height="160.21246"
+       x="6.7924337"
+       y="42.74955"
+       style="fill:url(#radialGradient4526);fill-opacity:1;stroke-width:0.14232072" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.17477226px;line-height:1.25;font-family:Tahoma;-inkscape-font-specification:'Tahoma, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.04812273"
+       x="74.225739"
+       y="53.670547"
+       id="text4530"><tspan
+         sodipodi:role="line"
+         id="tspan4528"
+         x="74.225739"
+         y="53.670547"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.17477226px;font-family:Tahoma;-inkscape-font-specification:'Tahoma, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;stroke-width:0.04812273">Skills</tspan></text>
+    <text
+       id="text4534"
+       y="53.670547"
+       x="95.074997"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.17477226px;line-height:1.25;font-family:Tahoma;-inkscape-font-specification:'Tahoma, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.04812273"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.17477226px;font-family:Tahoma;-inkscape-font-specification:'Tahoma, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;stroke-width:0.04812273"
+         y="53.670547"
+         x="95.074997"
+         id="tspan4532"
+         sodipodi:role="line">Contact</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.17477226px;line-height:1.25;font-family:Tahoma;-inkscape-font-specification:'Tahoma, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.04812273"
+       x="45.03101"
+       y="53.670547"
+       id="text4538"><tspan
+         sodipodi:role="line"
+         id="tspan4536"
+         x="45.03101"
+         y="53.670547"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.17477226px;font-family:Tahoma;-inkscape-font-specification:'Tahoma, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;stroke-width:0.04812273">About Me</tspan></text>
+    <text
+       id="text4542"
+       y="53.670547"
+       x="18.522976"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.17477226px;line-height:1.25;font-family:Tahoma;-inkscape-font-specification:'Tahoma, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.04812273"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.17477226px;font-family:Tahoma;-inkscape-font-specification:'Tahoma, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;stroke-width:0.04812273"
+         y="53.670547"
+         x="18.522976"
+         id="tspan4540"
+         sodipodi:role="line">Projects</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="-114.9259"
+       y="130.75835"
+       id="text4546"><tspan
+         sodipodi:role="line"
+         id="tspan4544"
+         x="-114.9259"
+         y="140.41385"
+         style="stroke-width:0.26458332" /></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:64.85114288px;line-height:1.25;font-family:Tahoma;-inkscape-font-specification:'Tahoma, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:4.131464"
+       x="32.073044"
+       y="149.85829"
+       id="text4558"><tspan
+         sodipodi:role="line"
+         id="tspan4556"
+         x="32.073044"
+         y="149.85829"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:64.85114288px;font-family:'Myanmar Text';-inkscape-font-specification:'Myanmar Text';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;stroke-width:4.131464">I</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:64.85114288px;line-height:1.25;font-family:Tahoma;-inkscape-font-specification:'Tahoma, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:4.131464"
+       x="50.538994"
+       y="150.35959"
+       id="text4562"><tspan
+         sodipodi:role="line"
+         id="tspan4560"
+         x="50.538994"
+         y="150.35959"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:64.85114288px;font-family:'Myanmar Text';-inkscape-font-specification:'Myanmar Text';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;stroke-width:4.131464">O</tspan></text>
+    <text
+       id="text4566"
+       y="84.492821"
+       x="9.5058184"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.7px;line-height:1.25;font-family:Tahoma;-inkscape-font-specification:'Tahoma, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.87510794;"
+       xml:space="preserve"
+       transform="scale(1.0944444,0.91370562)"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.7px;font-family:Tahoma;-inkscape-font-specification:'Tahoma, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr;text-anchor:start;fill:#ffffff;stroke-width:0.87510794;"
+         y="84.492821"
+         x="9.5058184"
+         id="tspan4564"
+         sodipodi:role="line">Ilmo</tspan></text>
+    <text
+       id="text4570"
+       y="77.184975"
+       x="40.315769"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.69999981px;line-height:1.25;font-family:Tahoma;-inkscape-font-specification:'Tahoma, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.93044579"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.69999981px;font-family:Tahoma;-inkscape-font-specification:'Tahoma, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;stroke-width:0.93044579"
+         y="77.184975"
+         x="40.315769"
+         id="tspan4568"
+         sodipodi:role="line">Ott</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.01697779px;line-height:1.25;font-family:Tahoma;-inkscape-font-specification:'Tahoma, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.15042515"
+       x="126.45245"
+       y="125.26414"
+       id="text4582"><tspan
+         sodipodi:role="line"
+         id="tspan4580"
+         x="126.45245"
+         y="125.26414"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.01697779px;font-family:Tahoma;-inkscape-font-specification:'Tahoma, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.15042515">The logo will desapear</tspan><tspan
+         sodipodi:role="line"
+         x="126.45245"
+         y="132.78537"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.01697779px;font-family:Tahoma;-inkscape-font-specification:'Tahoma, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.15042515"
+         id="tspan4584">when the user scroll down</tspan></text>
+    <text
+       id="text4590"
+       y="53.069023"
+       x="126.98699"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.01697779px;line-height:1.25;font-family:Tahoma;-inkscape-font-specification:'Tahoma, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.15042515"
+       xml:space="preserve"><tspan
+         id="tspan4588"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.01697779px;font-family:Tahoma;-inkscape-font-specification:'Tahoma, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.15042515"
+         y="53.069023"
+         x="126.98699"
+         sodipodi:role="line">Menu with hover effects</tspan></text>
+    <rect
+       style="fill:#b3b3b3;fill-opacity:1;stroke:#b3b3b3;stroke-width:2.07663131;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect4594"
+       width="80.103798"
+       height="36.348656"
+       x="23.363857"
+       y="195.43758" />
+    <rect
+       y="258.41641"
+       x="23.363857"
+       height="36.348656"
+       width="80.103798"
+       id="rect4596"
+       style="fill:#b3b3b3;fill-opacity:1;stroke:#b3b3b3;stroke-width:2.07663131;stroke-miterlimit:4;stroke-dasharray:none" />
+    <text
+       id="text4602"
+       y="238.37143"
+       x="126.45245"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.01697779px;line-height:1.25;font-family:Tahoma;-inkscape-font-specification:'Tahoma, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.15042515"
+       xml:space="preserve"><tspan
+         id="tspan4600"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.01697779px;font-family:Tahoma;-inkscape-font-specification:'Tahoma, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.15042515"
+         y="238.37143"
+         x="126.45245"
+         sodipodi:role="line">Hidden pictures.</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.01697779px;font-family:Tahoma;-inkscape-font-specification:'Tahoma, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.15042515"
+         y="245.89265"
+         x="126.45245"
+         sodipodi:role="line"
+         id="tspan4606">They will show up when</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.01697779px;font-family:Tahoma;-inkscape-font-specification:'Tahoma, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.15042515"
+         y="253.41388"
+         x="126.45245"
+         sodipodi:role="line"
+         id="tspan4608">the user scroll down</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.73948574px;line-height:1.25;font-family:Tahoma;-inkscape-font-specification:'Tahoma, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#b3b3b3;fill-opacity:1;stroke:#b3b3b3;stroke-width:0.19348714"
+       x="56.695522"
+       y="189.57521"
+       id="text4612"><tspan
+         sodipodi:role="line"
+         id="tspan4610"
+         x="56.695522"
+         y="189.57521"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.73948574px;font-family:Tahoma;-inkscape-font-specification:'Tahoma, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#b3b3b3;stroke:#b3b3b3;stroke-width:0.19348714">title</tspan></text>
+    <path
+       style="fill:#b3b3b3;stroke:#b3b3b3;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 22.073209,83.746158 9.5262,17.537442"
+       id="path4618"
+       inkscape:connector-curvature="0" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.01697779px;line-height:1.25;font-family:Tahoma;-inkscape-font-specification:'Tahoma, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.15042515"
+       x="125.85307"
+       y="76.427956"
+       id="text4624"><tspan
+         sodipodi:role="line"
+         x="125.85307"
+         y="76.427956"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.01697779px;font-family:Tahoma;-inkscape-font-specification:'Tahoma, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.15042515"
+         id="tspan4622">The logo will move to the left</tspan><tspan
+         sodipodi:role="line"
+         x="125.85307"
+         y="83.949181"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.01697779px;font-family:Tahoma;-inkscape-font-specification:'Tahoma, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.15042515"
+         id="tspan4626">desapear and show the name</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332;"
+       x="28.726189"
+       y="20.699406"
+       id="text4630"><tspan
+         sodipodi:role="line"
+         id="tspan4628"
+         x="28.726189"
+         y="20.699406"
+         style="stroke-width:0.26458332;letter-spacing:0.26458333px;-inkscape-font-specification:Tahoma;font-family:Tahoma;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;fill:#000000;"
+         dx="1.5600007">Portfolio Website - Mock-up</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.2435514px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 30.464881,22.740476 H 165.78036"
+       id="path4632"
+       inkscape:connector-curvature="0" />
+    <rect
+       style="fill:none;fill-opacity:1;stroke:#333333;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect4634"
+       width="83.154762"
+       height="19.276785"
+       x="124.35416"
+       y="67.946426" />
+    <rect
+       style="fill:none;fill-opacity:1;stroke:#333333;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect4636"
+       width="83.335503"
+       height="16.684181"
+       x="124.26378"
+       y="42.659172" />
+    <rect
+       y="117.83929"
+       x="124.35416"
+       height="19.276785"
+       width="83.154762"
+       id="rect4638"
+       style="fill:none;fill-opacity:1;stroke:#333333;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none" />
+    <rect
+       style="fill:none;fill-opacity:1;stroke:#333333;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect4642"
+       width="82.971886"
+       height="27.03141"
+       x="124.44559"
+       y="230.64183" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.01697779px;line-height:1.25;font-family:Tahoma;-inkscape-font-specification:'Tahoma, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.15042515"
+       x="124.94055"
+       y="272.7673"
+       id="text4650"><tspan
+         id="tspan4648"
+         sodipodi:role="line"
+         x="124.94055"
+         y="272.7673"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.01697779px;font-family:Tahoma;-inkscape-font-specification:'Tahoma, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.15042515">The order will follow the menu</tspan></text>
+    <rect
+       y="263.09131"
+       x="124.01118"
+       height="16.182968"
+       width="83.084755"
+       id="rect4652"
+       style="fill:none;fill-opacity:1;stroke:#333333;stroke-width:0.38713276;stroke-miterlimit:4;stroke-dasharray:none" />
+    <path
+       style="fill:#b3b3b3;stroke:#b3b3b3;stroke-width:0.76499999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 63.499999,161.23094 v 17.00893"
+       id="path4662"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:#999999;stroke:#999999;stroke-width:0.26993498px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 15.5854,158.66071 94.02769,0.37798"
+       id="path4664"
+       inkscape:connector-curvature="0" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path4666"
+       d="M 109.61384,159.03775 109.2168,89.958434"
+       style="fill:#999999;stroke:#999999;stroke-width:0.23181021px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <text
+       id="text4670"
+       y="251.94128"
+       x="56.317547"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.73948574px;line-height:1.25;font-family:Tahoma;-inkscape-font-specification:'Tahoma, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#b3b3b3;fill-opacity:1;stroke:#b3b3b3;stroke-width:0.19348714"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.73948574px;font-family:Tahoma;-inkscape-font-specification:'Tahoma, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#b3b3b3;stroke:#b3b3b3;stroke-width:0.19348714"
+         y="251.94128"
+         x="56.317547"
+         id="tspan4668"
+         sodipodi:role="line">title</tspan></text>
+  </g>
+</svg>

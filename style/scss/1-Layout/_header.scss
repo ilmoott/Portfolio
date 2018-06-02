@@ -1,0 +1,19 @@
+.header{
+    padding: 3rem 1.5rem;
+
+    .menu{
+        display: flex;
+        flex-basis: 100%;
+        list-style: none;
+
+        &__item{
+            flex: 1;
+            text-align: center;
+        }
+
+    }
+}
+
+.logo__name{
+    display: none;
+}

@@ -1,0 +1,53 @@
+*,
+*::after,
+*::before {
+  margin: 0;
+  padding: 0;
+  box-sizing: inherit; }
+
+html {
+  font-size: 62.5%; }
+
+body {
+  box-sizing: border-box;
+  padding: 1.5rem 1.5rem; }
+
+li {
+  list-style: none; }
+
+body {
+  font-size: 2rem;
+  font-family: 'Lato', sans-serif; }
+
+.menu__link:link,
+.menu__link:visited {
+  text-decoration: none;
+  color: black; }
+
+.logo__letters {
+  font-size: 20rem; }
+
+.project {
+  margin-top: 3rem; }
+
+.skills {
+  margin-top: 3rem; }
+
+.about {
+  margin-top: 3rem; }
+
+.contact {
+  margin-top: 3rem; }
+
+.header {
+  padding: 3rem 1.5rem; }
+  .header .menu {
+    display: flex;
+    flex-basis: 100%;
+    list-style: none; }
+    .header .menu__item {
+      flex: 1;
+      text-align: center; }
+
+.logo__name {
+  display: none; }

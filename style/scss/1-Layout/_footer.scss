@@ -2,6 +2,11 @@
     margin-top: 10rem;
     border-top: 1px solid #e6e5ea;
 
+    
+    @media screen and (min-width: 65rem){
+        font-size: 4rem;
+    }
+
     &__item:not(:first-child){
         margin-top: 1rem;
     }
@@ -11,10 +16,15 @@
         img{
             width: 20%;
 
+            @media screen and (min-width: 80rem) {
+                width: 8%;
+            }
 
             @media screen and (min-width: 100rem) {
-                width: 5%;
+                width: 4%;
             }
         }
     }
+
+    
 }

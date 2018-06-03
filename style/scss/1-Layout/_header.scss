@@ -1,19 +1,31 @@
 .header{
-    margin-top: 2rem;
+    margin: 2rem auto 2rem auto;
+
 
     .menu{
         display: flex;
         flex-basis: 100%;
         list-style: none;
+        border-radius: 3px;
 
         &__item{
-            flex: 1;
+            flex-basis: 33%;
             text-align: center;
         }
 
     }
 }
 
-.logo__name{
-    display: none;
+
+.logo{
+    transition: all 1s;
+
+    .logo__name{
+        display: none;
+        font-weight: 300;
+        border-bottom: 1px solid #e6e5ea;
+        position: fixed;
+
+    }
+
 }

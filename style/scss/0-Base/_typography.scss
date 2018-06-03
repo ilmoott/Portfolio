@@ -1,11 +1,11 @@
 body{
-    font-size: 2rem;
+    font-size: $font-sm;
     font-family: 'Lato', sans-serif;
-    color: #e6e5ea;
-    font-weight: 300;
+    color: $color-primary;
+    font-weight: $font-weight;
 
     @media screen and (min-width: 100rem){
-        font-size: 3rem;
+        font-size: $font-md;
     }
 };
 
@@ -15,8 +15,8 @@ body{
     &__link:link,
     &__link:visited,{
         text-decoration: none;
-        color: #e6e5ea;
-        font-weight: 300;
+        color: $color-primary;
+        font-weight: $font-weight;
         transition: all .2s;
         padding: 1rem;
 
@@ -24,9 +24,10 @@ body{
 
     &__item{
         width: 20%;
+        transition: all .2s;
     
         &:hover{
-            border-bottom: 1px solid #e6e5ea;
+            border-bottom: 1px solid $color-primary;
         }
     }
 }
@@ -34,18 +35,20 @@ body{
 
 
 .logo__letters{
-    font-size: 20rem;
-    font-weight: 300;
+    font-size: $font-logo-sm;
+    font-weight: $font-weight;
+    text-shadow: 0 10px 20px $shadow-color;
+    animation: fadeUp 1.5s ease-out;
 
     @media screen and (min-width: 120rem) {
-        font-size: 40rem;
+        font-size: $font-logo-bg;
     }
 }
 
 .project{
 
     &__title{
-        font-weight: 300;
+        font-weight: $font-weight;
         text-align: center;
 
     }
@@ -66,6 +69,6 @@ body{
     &__link:link,
     &__link:visited{
         text-decoration: none;
-        color: #e6e5ea;
+        color: $color-primary;
     }
 }

@@ -1,7 +1,20 @@
 .contact{
     margin-top: 10rem;
+    border-top: 1px solid #e6e5ea;
 
     &__item:not(:first-child){
         margin-top: 1rem;
+    }
+
+    &__link{
+
+        img{
+            width: 20%;
+
+
+            @media screen and (min-width: 100rem) {
+                width: 5%;
+            }
+        }
     }
 }

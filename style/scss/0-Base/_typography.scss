@@ -3,6 +3,10 @@ body{
     font-family: 'Lato', sans-serif;
     color: #e6e5ea;
     font-weight: 300;
+
+    @media screen and (min-width: 100rem){
+        font-size: 3rem;
+    }
 };
 
 
@@ -31,7 +35,11 @@ body{
 
 .logo__letters{
     font-size: 20rem;
-    font-weight: 300;  
+    font-weight: 300;
+
+    @media screen and (min-width: 120rem) {
+        font-size: 40rem;
+    }
 }
 
 .project{

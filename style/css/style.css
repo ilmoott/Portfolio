@@ -22,6 +22,9 @@ body {
   font-family: 'Lato', sans-serif;
   color: #e6e5ea;
   font-weight: 300; }
+  @media screen and (min-width: 100rem) {
+    body {
+      font-size: 3rem; } }
 
 .menu__link:link, .menu__link:visited {
   text-decoration: none;
@@ -38,6 +41,9 @@ body {
 .logo__letters {
   font-size: 20rem;
   font-weight: 300; }
+  @media screen and (min-width: 120rem) {
+    .logo__letters {
+      font-size: 40rem; } }
 
 .project__title {
   font-weight: 300;
@@ -75,9 +81,15 @@ body {
     margin-top: 3rem; }
 
 .contact {
-  margin-top: 10rem; }
+  margin-top: 10rem;
+  border-top: 1px solid #e6e5ea; }
   .contact__item:not(:first-child) {
     margin-top: 1rem; }
+  .contact__link img {
+    width: 20%; }
+    @media screen and (min-width: 100rem) {
+      .contact__link img {
+        width: 5%; } }
 
 .header {
   margin-top: 2rem; }

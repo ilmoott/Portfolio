@@ -10,37 +10,77 @@ html {
 
 body {
   box-sizing: border-box;
-  padding: 1.5rem 1.5rem; }
+  padding: 1.5rem 1.5rem;
+  background: linear-gradient(#200449, #f75b68) no-repeat;
+  margin: 0 2rem 0 2rem; }
 
 li {
   list-style: none; }
 
 body {
   font-size: 2rem;
-  font-family: 'Lato', sans-serif; }
+  font-family: 'Lato', sans-serif;
+  color: #e6e5ea;
+  font-weight: 300; }
 
-.menu__link:link,
-.menu__link:visited {
+.menu__link:link, .menu__link:visited {
   text-decoration: none;
-  color: black; }
+  color: #e6e5ea;
+  font-weight: 300;
+  transition: all .2s;
+  padding: 1rem; }
+
+.menu__item {
+  width: 20%; }
+  .menu__item:hover {
+    border-bottom: 1px solid #e6e5ea; }
 
 .logo__letters {
-  font-size: 20rem; }
+  font-size: 20rem;
+  font-weight: 300; }
 
-.project {
-  margin-top: 3rem; }
+.project__title {
+  font-weight: 300;
+  text-align: center; }
 
-.skills {
-  margin-top: 3rem; }
+.project label {
+  text-align: center; }
 
 .about {
-  margin-top: 3rem; }
+  text-align: center; }
 
 .contact {
-  margin-top: 3rem; }
+  text-align: center; }
+  .contact__link:link, .contact__link:visited {
+    text-decoration: none;
+    color: #e6e5ea; }
+
+.project {
+  margin-top: 8rem;
+  display: flex;
+  flex-direction: column;
+  align-items: center; }
+  .project__title {
+    margin: 3rem auto 2rem auto; }
+  .project__icon-link {
+    flex-basis: 100%; }
+    .project__icon-link--img {
+      width: 100%;
+      max-width: 120rem; }
+
+.about {
+  margin: 20rem auto 20rem auto;
+  max-width: 120rem; }
+  .about div {
+    margin-top: 3rem; }
+
+.contact {
+  margin-top: 10rem; }
+  .contact__item:not(:first-child) {
+    margin-top: 1rem; }
 
 .header {
-  padding: 3rem 1.5rem; }
+  margin-top: 2rem; }
   .header .menu {
     display: flex;
     flex-basis: 100%;
@@ -51,3 +91,10 @@ body {
 
 .logo__name {
   display: none; }
+
+.logo__letters {
+  height: 75vh;
+  display: flex;
+  align-items: flex-end;
+  justify-content: center;
+  margin-bottom: 20vh; }

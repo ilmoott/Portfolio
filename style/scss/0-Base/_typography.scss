@@ -1,22 +1,63 @@
 body{
     font-size: 2rem;
     font-family: 'Lato', sans-serif;
+    color: #e6e5ea;
+    font-weight: 300;
 };
 
-.menu__link:link,
-.menu__link:visited,{
-    text-decoration: none;
-    color: black;
-}
 
-.logo__letters{
-    font-size: 20rem;
+.menu{
 
-    &--i{
+    &__link:link,
+    &__link:visited,{
+        text-decoration: none;
+        color: #e6e5ea;
+        font-weight: 300;
+        transition: all .2s;
+        padding: 1rem;
 
     }
 
-    &--o{
+    &__item{
+        width: 20%;
+    
+        &:hover{
+            border-bottom: 1px solid #e6e5ea;
+        }
+    }
+}
 
+
+
+.logo__letters{
+    font-size: 20rem;
+    font-weight: 300;  
+}
+
+.project{
+
+    &__title{
+        font-weight: 300;
+        text-align: center;
+
+    }
+
+    label{
+        text-align: center;
+    }
+}
+
+.about{
+    text-align: center;
+    
+}
+
+.contact{
+    text-align: center;
+
+    &__link:link,
+    &__link:visited{
+        text-decoration: none;
+        color: #e6e5ea;
     }
 }

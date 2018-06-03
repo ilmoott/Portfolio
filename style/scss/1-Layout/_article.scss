@@ -1,11 +1,34 @@
 .project{
-    margin-top: 3rem;
+    margin-top: 8rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+    &__title{
+        margin: 3rem auto 2rem auto;
+    }
+
+    &__icon-link{
+        flex-basis: 100%;
+
+        &--img{
+            width: 100%;
+            max-width: 120rem;
+        }
+    }
+
+
+    
 }
 
-.skills{
-    margin-top: 3rem;
-}
+
 
 .about{
-    margin-top: 3rem;
+    margin: 20rem auto 20rem auto;
+    max-width: 120rem;
+
+    div{
+        margin-top: 3rem;   
+    }
+
 }

@@ -23,7 +23,8 @@
         })
     }
     
-    removeName();
+    // removeName();
+    //This animation is still in the planning stage
 
 })();
 

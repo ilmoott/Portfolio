@@ -36,6 +36,9 @@ body {
 .menu__item {
   width: 20%;
   transition: all .2s; }
+  @media screen and (max-width: 40rem) {
+    .menu__item {
+      font-size: .9rem; } }
   .menu__item:hover {
     border-bottom: 1px solid #e6e5ea; }
 
@@ -63,6 +66,9 @@ body {
   .contact__link:link, .contact__link:visited {
     text-decoration: none;
     color: #e6e5ea; }
+    @media screen and (min-width: 100rem) {
+      .contact__link:link, .contact__link:visited {
+        font-size: 2rem; } }
 
 .project {
   margin-top: 8rem;
@@ -72,10 +78,12 @@ body {
   .project__title {
     margin: 3rem auto 2rem auto; }
   .project__icon-link {
-    flex-basis: 100%; }
+    flex-basis: 100%;
+    border-radius: 4px; }
     .project__icon-link--img {
       width: 100%;
-      max-width: 120rem; }
+      max-width: 120rem;
+      border-radius: 3px; }
 
 .about {
   margin: 20rem auto 20rem auto;

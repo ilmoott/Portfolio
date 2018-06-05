@@ -25,6 +25,10 @@ body{
     &__item{
         width: 20%;
         transition: all .2s;
+
+        @media screen and (max-width: 40rem){
+            font-size: .9rem;
+        }
     
         &:hover{
             border-bottom: 1px solid $color-primary;
@@ -70,5 +74,12 @@ body{
     &__link:visited{
         text-decoration: none;
         color: $color-primary;
+
+        @media screen and (min-width: 100rem) {
+            font-size: $font-sm;
+        }
+
     }
+
+    
 }

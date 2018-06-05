@@ -11,10 +11,12 @@
 
     &__icon-link{
         flex-basis: 100%;
+        border-radius: 4px;
 
         &--img{
             width: 100%;
             max-width: 120rem;
+            border-radius: 3px;
         }
     }
 

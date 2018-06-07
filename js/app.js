@@ -26,6 +26,18 @@
     // removeName();
     //This animation is still in the planning stage
 
+    var test = document.querySelector('#logo');
+    test.parentNode.style.position = 'relative';
+    test.style.perspective = '50px';
+
+    var counter = 0;
+
+    var move = function (){
+        
+        test.style.transform = `rotateX(${counter}deg) rotate(${counter}deg)`;
+        counter+=1;
+    };
+
+    var oneTest = setInterval(move,30);
+
 })();
-
-

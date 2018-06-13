@@ -19,7 +19,11 @@ body{
         font-weight: $font-weight;
         transition: all .2s;
         padding: 1rem;
-
+        
+        @media screen and (max-width: 40rem){
+            font-size: 1.5rem;
+            padding: 0.5rem;
+        }
     }
 
     &__item{
@@ -27,7 +31,7 @@ body{
         transition: all .2s;
 
         @media screen and (max-width: 40rem){
-            font-size: .9rem;
+            width: 32%;
         }
     
         &:hover{
@@ -44,9 +48,16 @@ body{
     text-shadow: 0 10px 20px $shadow-color;
     animation: fadeUp 1.5s ease-out;
 
-    @media screen and (min-width: 120rem) {
+    @media screen and (min-width: 40rem) {
+        font-size: $font-logo-xsm;
+    }
+
+    @media screen and (min-width: 80rem) {
         font-size: $font-logo-bg;
     }
+
+
+    
 }
 
 .project{

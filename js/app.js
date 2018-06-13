@@ -38,6 +38,6 @@
         counter+=1;
     };
 
-    var oneTest = setInterval(move,30);
+    // var oneTest = setInterval(move,30);
 
 })();

@@ -1,3 +1,6 @@
+html {
+  font-size: 62.5%; }
+
 *,
 *::after,
 *::before {
@@ -5,14 +8,15 @@
   padding: 0;
   box-sizing: inherit; }
 
-html {
-  font-size: 62.5%; }
-
 body {
   box-sizing: border-box;
   padding: 1.5rem 1.5rem;
   background: linear-gradient(#200449, #f75b68) no-repeat;
   margin: 0 2rem 0 2rem; }
+  @media screen and (max-width: 40rem) {
+    body {
+      margin: 0 1rem 0 1rem;
+      padding: 1.5rem 1rem; } }
 
 li {
   list-style: none; }
@@ -32,13 +36,17 @@ body {
   font-weight: 300;
   transition: all .2s;
   padding: 1rem; }
+  @media screen and (max-width: 40rem) {
+    .menu__link:link, .menu__link:visited {
+      font-size: 1.5rem;
+      padding: 0.5rem; } }
 
 .menu__item {
   width: 20%;
   transition: all .2s; }
   @media screen and (max-width: 40rem) {
     .menu__item {
-      font-size: .9rem; } }
+      width: 32%; } }
   .menu__item:hover {
     border-bottom: 1px solid #e6e5ea; }
 
@@ -47,7 +55,10 @@ body {
   font-weight: 300;
   text-shadow: 0 10px 20px #38393a;
   animation: fadeUp 1.5s ease-out; }
-  @media screen and (min-width: 120rem) {
+  @media screen and (min-width: 40rem) {
+    .logo__letters {
+      font-size: 10rem; } }
+  @media screen and (min-width: 80rem) {
     .logo__letters {
       font-size: 40rem; } }
 
@@ -110,6 +121,9 @@ body {
 
 .header {
   margin: 2rem auto 2rem auto; }
+  @media screen and (max-width: 40rem) {
+    .header {
+      margin: auto auto auto auto; } }
   .header .menu {
     display: flex;
     flex-basis: 100%;
@@ -133,6 +147,9 @@ body {
   align-items: flex-end;
   justify-content: center;
   margin-bottom: 20vh; }
+  @media screen and (max-width: 40rem) {
+    .logo__letters {
+      margin-bottom: 5vh; } }
 
 @keyframes fadeUp {
   0% {

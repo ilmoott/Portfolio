@@ -1,6 +1,17 @@
 html{
     font-size: 62.5%;
 }
+
+#particles-js{
+    position: fixed;
+    height: 100vh;
+    width: 100vw;
+}
+
+body{
+    z-index: 1;
+}
+
 @import "variables";
 @import "../scss/0-Base/_base-dir.scss";
 @import "../scss/1-Layout/_layout-dir.scss";

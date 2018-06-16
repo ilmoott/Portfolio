@@ -1,6 +1,14 @@
 html {
   font-size: 62.5%; }
 
+#particles-js {
+  position: fixed;
+  height: 100vh;
+  width: 100vw; }
+
+body {
+  z-index: 1; }
+
 *,
 *::after,
 *::before {
@@ -11,7 +19,7 @@ html {
 body {
   box-sizing: border-box;
   padding: 1.5rem 1.5rem;
-  background: linear-gradient(#200449, #f75b68) no-repeat;
+  background: linear-gradient(#6542f4, #e02323) no-repeat;
   margin: 0 2rem 0 2rem; }
   @media screen and (max-width: 40rem) {
     body {

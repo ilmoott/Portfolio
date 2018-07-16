@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   id="svg8"
+   version="1.1">
+  <defs
+     id="defs2" />
+  <g
+     id="layer1">
+    <path
+       id="path10"
+       d="m 102.006529,130 -0.267268,230.93745"
+       style="fill:none;stroke:#ffffff;stroke-width:2.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none" >
+        <animate attributeName="d" from="0" to="300" dur="5s" />
+    </path>
+    <ellipse
+       ry="120.049109"
+       rx="110.702009"
+       cy="50%"
+       cx="60%"
+       id="path16"
+       style="fill:none;fill-rule:evenodd;stroke-width:2.5;stroke:#ffffff;stroke-miterlimit:4;stroke-dasharray:none">
+
+       <animate attributeName="cx" from="0" to="300" dur="4s" />
+    </ellipse>
+      
+  </g>
+</svg>

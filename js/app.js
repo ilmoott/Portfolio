@@ -13,17 +13,21 @@
         sr.reveal(e,{duration: 1500})
     });
 
-    let removeName = function (){
+ 
 
-        logo = document.getElementById('logo');
-        name = document.getElementById('name');
-        logo.addEventListener('click',function(){
-            logo.style.display = 'none';
-            name.style.display = 'block';
-        })
-    }
+    logo = document.getElementById('logo');
+    name = document.getElementById('name');
+
+    let opacity = 1;
     
-    // removeName();
+    setTimeout(() => {
+        name.style.opacity = 0;        
+    }, 4100);
+
+    //function to show name slowly
+    
+    
+    //removeName();
     //This animation is still in the planning stage
 
     var test = document.querySelector('#logo');

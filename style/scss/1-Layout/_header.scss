@@ -25,11 +25,21 @@
     transition: all 1s;
 
     .logo__name{
-        display: none;
+        display: flex;
         font-weight: 300;
-        border-bottom: 1px solid #e6e5ea;
+        font-size: 5rem;
         position: fixed;
-
+        transition: all 1s;
     }
 
+    &__img{
+        width: 50rem;
+        height: 50rem;
+    }
+
+}
+
+svg{
+    height: 35rem;
+    width: 35rem;
 }

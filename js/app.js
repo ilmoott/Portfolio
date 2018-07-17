@@ -1,6 +1,6 @@
 ;(function(){
 
-    let projects, projectsArray, name, logo;
+    let projects, projectsArray, name, logo, title;
 
     projects = document.getElementsByClassName('project');
     projectsArray = Array.from(projects);
@@ -17,6 +17,15 @@
 
     logo = document.getElementById('logo');
     name = document.getElementById('name');
+    title = document.querySelectorAll('.project__title');
+
+    title.forEach((e)=>{
+        e.addEventListener('mouseover',function(){
+            for(let i = 0; i< e.textContent.length; i++){
+                e.textContent[i].offsetTop = '-2px';
+            }
+        });
+    })
 
     let opacity = 1;
     
@@ -26,6 +35,9 @@
 
     //function to show name slowly
     
+    let animateTitle = function(){
+
+    }
     
     //removeName();
     //This animation is still in the planning stage
@@ -43,5 +55,8 @@
     };
 
     // var oneTest = setInterval(move,30);
+
+
+
 
 })();
